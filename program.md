@@ -6,9 +6,9 @@ published: true
 
 ## Program
 
-TBD
+To be determined. Please check back later.
 
-<!---
+<!--
 GAIW 2022 was be held entirely online.
 
 The full recording of the Zoom talk sessions is available on [YouTube](https://youtu.be/HAb1wDhZg-g)
@@ -18,7 +18,9 @@ In addition, GAIW held two joint poster sessions with the ALA and LSA workshops,
 There were two invited talks, by Amy Greenwald and Panayotis Mertikopoulos. Information about the keynote speakers can be found on the [LSA workshop website](https://minbiaohan.github.io/LSA/program.html)
 
 Please find detailed information regarding the workshop schedule below.
---->
+-->
+
+<!--
 
 
 
@@ -71,6 +73,10 @@ Auckland |  TBD |    |   |
 | TBD |   |   |   | 1 |
 | TBD |   |   |   | 2 |
 | TBD |   |   |   | ... |
+
+
+-->
+
 
 
 
