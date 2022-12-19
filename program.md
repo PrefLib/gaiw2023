@@ -6,6 +6,9 @@ published: true
 
 ## Program
 
+TBD
+
+<!---
 GAIW 2022 was be held entirely online.
 
 The full recording of the Zoom talk sessions is available on [YouTube](https://youtu.be/HAb1wDhZg-g)
@@ -15,11 +18,14 @@ In addition, GAIW held two joint poster sessions with the ALA and LSA workshops,
 There were two invited talks, by Amy Greenwald and Panayotis Mertikopoulos. Information about the keynote speakers can be found on the [LSA workshop website](https://minbiaohan.github.io/LSA/program.html)
 
 Please find detailed information regarding the workshop schedule below.
+--->
 
 
 
 ## Talk Session Times
+TBD
 
+<!---
 
 | Location | Date | Talk Session 1 | Talk Session 2 |
 |----------|-------------|------|------|
@@ -32,9 +38,13 @@ Kolkata | May 8-9 |  20:30-23:30 | 04:30-07:30 |
 Beijing | May 8-9 |  23:00-02:00 | 07:00-10:00 |
 Sydney | May 9 |  01:00-04:00 | 09:00-12:00 |
 Auckland | May 9 |  03:00-06:00 | 11:00-14:00 |
+-->
 
 
 ## Poster Session Times
+TBD.
+
+<!---
 
 | Location | Date | Poster Session 1 | Poster Session 2 |
 |----------|-------------|------|------|
@@ -48,8 +58,13 @@ Beijing | May 9-10 | 22:00-22:55 | 02:15-03:15 |
 Sydney | May 10 | 00:00-0:55 | 04:15-05:15 |
 Auckland | May 10 | 02:00-02:55 | 06:15-07:15 |
 
+-->
+
 
 ## Session 1 Talks
+TBD.
+
+<!---
 
 
 | Time (Auckland) |   Talk   |  Authors  |  Paper  | # |
@@ -69,10 +84,13 @@ Auckland | May 10 | 02:00-02:55 | 06:15-07:15 |
 | 5:55 - 6:00 | Seeking Ground Truth: A Simulation-Based Exploration of Liquid Democracy and Sortition on Social Networks | Ben Armstrong, Shiri Heffetz, Nimrod Talmon, Kate Larson | [(PDF)](https://drive.google.com/file/d/1al6oNK0O7bqRIxSGSl3ZLSB54MPcxuW5/view?usp=sharing) | 11 |
 | 6:00 - 6:05 | Towards Secure Virtual Elections: Multiparty Computation of Order Based Voting Rules | Tamir Tassa, Lihi Dery | [(PDF)](https://drive.google.com/file/d/11wFmSsNgEkkh1RGUm2sml3wHK7N-7HuM/view?usp=sharing) | 12 |
 
+-->
 
 
 ## Session 2 Talks
+TBD.
 
+<!---
 
 | Time (Auckland) | Talk | Authors | Paper | # |
 |------------|-----------|------|------|-----|
@@ -90,7 +108,7 @@ Auckland | May 10 | 02:00-02:55 | 06:15-07:15 |
 | 13:50 - 13:55 |  Matching Algorithms Under Diversity-Based Reservations | Haris Aziz, Sean Chu, Zhaohong Sun | [(PDF)](https://drive.google.com/file/d/1YJPrx8MBqleO3ge09G1IPJOsXh8G8gEQ/view?usp=sharing) | 22 |
 | 13:55 - 14:00 |  Conditional Strategy Equilibrium | Lorenzo Bastianello, Mehmet Ismail | [(PDF)](https://drive.google.com/file/d/1NGLE0AlrOPk19nrkxmmwi2gGg1k4RPrl/view?usp=sharing) | 23 |
 
-
+-->
 
 
 
