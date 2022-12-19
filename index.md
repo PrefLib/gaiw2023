@@ -6,7 +6,7 @@ published: true
 ---
 <p style="text-align:center;"><img src="{{ 'img/gaiwcover.png' | relative_url }}" /></p>
 
-<!---
+<!--
 ## Thanks for a Great Workshop!
 We had a great workshop this year – you can watch the full video on YouTube [Here](https://youtu.be/HAb1wDhZg-g).
 
