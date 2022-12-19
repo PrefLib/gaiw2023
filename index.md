@@ -1,17 +1,19 @@
 ---
 layout: page
-title: Welcome to GAIW 2022
-subtitle: A Workshop at AAMAS 2022
+title: Welcome to GAIW 2023
+subtitle: A Workshop at AAMAS 2023
 published: true
 ---
 <p style="text-align:center;"><img src="{{ 'img/gaiwcover.png' | relative_url }}" /></p>
 
+<!---
 ## Thanks for a Great Workshop!
 We had a great workshop this year – you can watch the full video on YouTube [Here](https://youtu.be/HAb1wDhZg-g).
 
 The full program and all papers will remain available on the [Program](https://preflib.github.io/gaiw2022/program/) page.
 
 Look forward to seeing you all next time!
+-->
 
 
 ## About the Games, Agents, and Incentives Workshop
@@ -24,13 +26,15 @@ Games, Agents and Incentives is a confederated workshop which focuses (obviously
 Over the past two decades, the focus of agent incentives in centralised and decentralised AI systems has increased dramatically. These issues come up when designing preference aggregation mechanisms and markets; computing equilibria and bidding strategies; facilitating cooperation among agents; and fairly dividing resources.
 
 ## Important Dates
-* Submission Deadline: February 13, 2022 (AoE).
-* Acceptance Notification: March 20, 2022.
-* Camera Ready: April 3, 2022 (AoE).
+* Submission Deadline: TBD.
+* Acceptance Notification: TBD.
+* Camera Ready: TBD.
+<!---
 * Workshop Talk Session 1: May 9th, 2022 (3:00-6:00 Auckland). [Zoom](https://psu.zoom.us/j/93817541262?pwd=M3VuaVNvb2p2T3UzS1Y3dUJmdVAwdz09).
 * Workshop Talk  Session 2: May 9th, 2022 (11:00-14:00 Auckland). [Zoom](https://psu.zoom.us/j/93817541262?pwd=M3VuaVNvb2p2T3UzS1Y3dUJmdVAwdz09).
 * Poster Session 1: May 10th, 2022 (02:00-02:55 Auckland). [Gather Town](https://app.gather.town/events/O8p6uZQ3G1EJELYsXH2v).
 * Poster Session 2: May 10th, 2022 (06:15-07:15 Auckland). [Gather Town](https://app.gather.town/events/O8p6uZQ3G1EJELYsXH2v).
+-->
 
 ---
 
