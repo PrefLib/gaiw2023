@@ -6,11 +6,12 @@ published: true
 ---
 <p style="text-align:center;"><img src="{{ 'img/gaiwcover.png' | relative_url }}" /></p>
 
+
 <!--
 ## Thanks for a Great Workshop!
-We had a great workshop this year – you can watch the full video on YouTube [Here](https://youtu.be/HAb1wDhZg-g).
+We had a great workshop this year – you can watch the full video on YouTube [Here](YouTube Link).
 
-The full program and all papers will remain available on the [Program](https://preflib.github.io/gaiw2022/program/) page.
+The full program and all papers will remain available on the [Program](https://preflib.github.io/gaiw2023/program/) page.
 
 Look forward to seeing you all next time!
 -->
@@ -29,16 +30,20 @@ Over the past two decades, the focus of agent incentives in centralised and dece
 * Submission Deadline: TBD.
 * Acceptance Notification: TBD.
 * Camera Ready: TBD.
+
+
+<!--
 * Workshop Talk Session 1: TBD.
 * Workshop Talk  Session 2: TBD.
 * Poster Session 1: TBD.
 * Poster Session 2: TBD.
+-->
 
 ---
 
 ## Important Links:
+* [AAMAS 2023 Conference Website](https://aamas2023.soton.ac.uk/)
 * [GAIW 2022 Program Recording](https://youtu.be/HAb1wDhZg-g)
-* [AAMAS 2022 Conference Website](https://aamas2022-conference.auckland.ac.nz/)
 * [4th GAIW Website (2022)](https://preflib.github.io/gaiw2022/)
 * [3rd GAIW Website (2021)](https://preflib.github.io/gaiw2021/)
 * [2nd GAIW Website (2020)](http://www.agent-games-2020.preflib.org/)
