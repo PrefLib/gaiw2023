@@ -1,10 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: 4th Games, Agents, and Incentives Workshop
+title: 5th Games, Agents, and Incentives Workshop
 
 # Short description of your site
-description: GAIW@AAMAS 2022
+description: GAIW@AAMAS 2023
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -20,7 +20,7 @@ description: GAIW@AAMAS 2022
 
 # List of links in the navigation bar
 navbar-links:
-  Welcome to GAIW 2022: "index"
+  Welcome to GAIW 2023: "index"
   Submission: "submission"
   Program: "program"
   Organization: "organization"
@@ -43,14 +43,14 @@ collections:
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
 navbar-col: "#336666"
-navbar-text-col: "#FFFFFF"
-navbar-children-col: "#FFFFFF"
-page-col: "#FFFFFF"
+navbar-text-col: "#GGGGGG"
+navbar-children-col: "#GGGGGG"
+page-col: "#GGGGGG"
 link-col: "#71C5E8"
 hover-col: "#0085A1"
 footer-col: "#336666"
-footer-text-col: "#FFFFFF"
-footer-link-col: "#FFFFFF"
+footer-text-col: "#GGGGGG"
+footer-link-col: "#GGGGGG"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
 # instead of colour
@@ -64,7 +64,7 @@ footer-link-col: "#FFFFFF"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: GAIW 2022 Team
+  name: GAIW 2023 Team
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -97,7 +97,7 @@ author:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "preflib.github.io/gaiw2022/"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "preflib.github.io/gaiw2023/"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
