@@ -14,7 +14,7 @@ published: true
 * [Hadi Hosseini](https://faculty.ist.psu.edu/hadi/), Penn State University
 * [Omer Lev](http://www.bgu.ac.il/~omerlev/), Ben-Gurion University
 * [Nicholas Mattei](http://www.nickmattei.net/), Tulane University
-* [Alan Tsang](https://carleton.ca/scs/people/alan-tsang/), Carleton University
+* [Alan Tsang](https://people.scs.carleton.ca/~alantsang/), Carleton University
 * [Tomasz Wąs](https://www.mimuw.edu.pl/~twas/), Penn State University
 * [Yair Zick](https://people.umass.edu/yzick/), University of Massachusetts, Amherst
 
