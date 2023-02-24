@@ -5,7 +5,7 @@ published: true
 ---
 
 ## Important Dates
-* Submission Deadline: February 24th, 2023 (AoE)
+* Submission Deadline: ~~February 24th, 2023~~ February 27, 2023 (AoE)
 * Acceptance Notification: March 26th, 2023
 * Camera Ready: April 15th, 2023 (AoE)
 
