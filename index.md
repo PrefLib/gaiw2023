@@ -27,7 +27,7 @@ Games, Agents and Incentives is a confederated workshop which focuses (obviously
 Over the past two decades, the focus of agent incentives in centralised and decentralised AI systems has increased dramatically. These issues come up when designing preference aggregation mechanisms and markets; computing equilibria and bidding strategies; facilitating cooperation among agents; and fairly dividing resources.
 
 ## Important Dates
-* Submission Deadline: February 24, 2023 (AoE) -- [2023 GAIW Submission Site on CMT](https://cmt3.research.microsoft.com/GAIW2023)
+* Submission Deadline: ~~February 24, 2023~~ February 27, 2023 (AoE) -- [2023 GAIW Submission Site on CMT](https://cmt3.research.microsoft.com/GAIW2023)
 * Acceptance Notification: March 26, 2023
 * Camera Ready: April 15, 2023 (AoE)
 * AAMAS Conference: Monday, May 29 - Friday, June 2 in the London ExCeL conference centre, London, UK
