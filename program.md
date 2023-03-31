@@ -79,6 +79,42 @@ Auckland |  TBD |    |   |
 
 
 
+## Long Talks
+1. Fair Distribution of Delivery Orders - Hadi Hosseini, Shivika Narang, Tomasz Wąs
+2. Thou Shalt not Pick all Items if Thou are First: of Strategyproof and Fair Picking Sequences - Sylvain Bouveret, Hugo Gilbert, Jérôme Lang, Guillaume Méroué
+3. Global Min-Max Computation for α-Hölder zero-sum Games - Aurélien Delage, Olivier Buffet, Jilles Steeve Dibangoye
+4. Closeness centrality via the Condorcet principle - Oskar Skibski
+5. Refined Characterizations of Approval-based Committee Scoring Rules - Chris S Dong, Patrick Lederer
+6. On the Price of Fairness of Allocating Contiguous Blocks - Ankang Sun, Bo Li
+7. Group Fair Clustering Revisited- Notions and Efficient Algorithm - Shivam Gupta, Ganesh Ghalme, Narayanan C Krishnan, Shweta Jain
+9. Scaling Opponent Shaping to High Dimensional Games - Akbir Khan, Timon Willi, Newton H Kwan, Andrea Tacchetti, Christopher Lu, Edward Grefenstette, Tim Rocktäschel, Jakob Foerster
+12. A Comparative Study of Elicitation Granularity in Prediction Markets Under Trader Misinformation - Noah Lincke, Mithun Chakraborty, Sindhu Kutty
+13. Incentive-Based Efficient Solutions for Public Goods Games - Yair Vaknin, Amnon Meisels
+14. Graphical House Allocation - Hadi Hosseini, Justin Payan, Rik Sengupta, Rohit Vaish, Vignesh Viswanathan
+16. Improving Quantal Cognitive Hierarchy Model Through Iterative Population Learning - Yuhong Xu, Shih-Fen Cheng, Xinyu Chen
+18. Improved coordination with failsafes and belief-conditioned programs - Jesse Clifton, Anthony DiGiovanni
+19. The Limits of Smart Voting in Liquid Democracy - Giannis Tyrovolas, Edith Elkind
+20. A Novel Approach of Credit Based Compensation Scheme Modelling in International Kidney Exchange - Xin Ye, Márton Benedek, Peter Biro, Daniel Paulusma
+21. Proxy Voting for Better Outcomes - Gili Bielous, Reshef Meir
+
+
+
+## Short Talks
+1. Pandering in a (Flexible) Representative Democracy - Ben Abramowitz, Nicholas Mattei, Zizhan Zheng, Xiaolin Sun, Jacob Masur
+2. Influencing Games Through DRL - Colin Brady, Rica Gonen, Genadi Rabinovich
+3. Prizes and effort in contests with private information
+4. Social Optimum Equilibrium Selection for Distributed Multi-Agent Optimization - Duong D Nguyen, Langford White, Hung Nguyen
+5. Game Implementation: What Are the Obstructions? - Jiehua Chen, Sebastian Vincent Haydn, Seyedeh Negar Layegh Khavidaki, Sofia Simola, Manuel Sorge
+6. Decision Theory Using Mechanised Causal Graphs - Decision Theory Using Mechanised Causal Graphs
+7. Pairwise Distortion and the Independence of Irrelevant Alternatives - Théo Delemazure, Grzegorz Pierczyński, Jérôme Lang, 
+8. Agreement Among Proportional Approval-Based Multi-Winner Voting Rules: An Empirical Analysis
+9. Into the Unknown: Assigning Reviewers to Papers with Uncertain Affinities - Cyrus Cousins, Justin Payan, Yair Zick
+10. Heuristics for Opinion Diffusion via Local Elections - Rica Gonen, Martin Koutecky, Roei Menashof, Nimrod Talmon
+11. A Fair Dynamic Pricing Policy for the Hotel Industry - Errikos Streviniotis, Athina Georgara, Filippo Bistaffa, Georgios Chalkiadakis
+12. Gerrymandering Bounds Beyond Two Parties - Ruth Ariel, Omer Lev
+
+
+
 
 <!--
 ## Long Talks
