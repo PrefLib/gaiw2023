@@ -81,8 +81,8 @@ Auckland |  TBD |    |   |
 1. Fair Distribution of Delivery Orders - Hadi Hosseini, Shivika Narang, Tomasz Wąs
 2. Thou Shalt not Pick all Items if Thou are First: of Strategyproof and Fair Picking Sequences - Sylvain Bouveret, Hugo Gilbert, Jérôme Lang, Guillaume Méroué
 3. Global Min-Max Computation for α-Hölder Zero-Sum Games - Aurélien Delage, Olivier Buffet, Jilles Steeve Dibangoye
-4. Closeness centrality via the Condorcet principle - Oskar Skibski
-5. Refined Characterizations of Approval-based Committee Scoring Rules - Chris S Dong, Patrick Lederer
+4. Closeness centrality via the Condorcet Principle - Oskar Skibski
+5. Refined Characterizations of Approval-Based Committee Scoring Rules - Chris S Dong, Patrick Lederer
 6. On the Price of Fairness of Allocating Contiguous Blocks - Ankang Sun, Bo Li
 7. Group Fair Clustering Revisited- Notions and Efficient Algorithm - Shivam Gupta, Ganesh Ghalme, Narayanan C Krishnan, Shweta Jain
 9. Scaling Opponent Shaping to High Dimensional Games - Akbir Khan, Timon Willi, Newton H Kwan, Andrea Tacchetti, Christopher Lu, Edward Grefenstette, Tim Rocktäschel, Jakob Foerster
