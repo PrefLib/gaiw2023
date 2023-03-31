@@ -4,9 +4,7 @@ title: Program
 published: true
 ---
 
-## Program
-
-To be determined. Please check back later.
+<!-- ## Program -->
 
 <!--
 GAIW 2022 was be held entirely online.
@@ -82,7 +80,7 @@ Auckland |  TBD |    |   |
 ## Long Talks
 1. Fair Distribution of Delivery Orders - Hadi Hosseini, Shivika Narang, Tomasz Wąs
 2. Thou Shalt not Pick all Items if Thou are First: of Strategyproof and Fair Picking Sequences - Sylvain Bouveret, Hugo Gilbert, Jérôme Lang, Guillaume Méroué
-3. Global Min-Max Computation for α-Hölder zero-sum Games - Aurélien Delage, Olivier Buffet, Jilles Steeve Dibangoye
+3. Global Min-Max Computation for α-Hölder Zero-Sum Games - Aurélien Delage, Olivier Buffet, Jilles Steeve Dibangoye
 4. Closeness centrality via the Condorcet principle - Oskar Skibski
 5. Refined Characterizations of Approval-based Committee Scoring Rules - Chris S Dong, Patrick Lederer
 6. On the Price of Fairness of Allocating Contiguous Blocks - Ankang Sun, Bo Li
@@ -92,7 +90,7 @@ Auckland |  TBD |    |   |
 13. Incentive-Based Efficient Solutions for Public Goods Games - Yair Vaknin, Amnon Meisels
 14. Graphical House Allocation - Hadi Hosseini, Justin Payan, Rik Sengupta, Rohit Vaish, Vignesh Viswanathan
 16. Improving Quantal Cognitive Hierarchy Model Through Iterative Population Learning - Yuhong Xu, Shih-Fen Cheng, Xinyu Chen
-18. Improved coordination with failsafes and belief-conditioned programs - Jesse Clifton, Anthony DiGiovanni
+18. Improved Coordination with Failsafes and Belief-Conditioned Programs - Jesse Clifton, Anthony DiGiovanni
 19. The Limits of Smart Voting in Liquid Democracy - Giannis Tyrovolas, Edith Elkind
 20. A Novel Approach of Credit Based Compensation Scheme Modelling in International Kidney Exchange - Xin Ye, Márton Benedek, Peter Biro, Daniel Paulusma
 21. Proxy Voting for Better Outcomes - Gili Bielous, Reshef Meir
@@ -102,7 +100,7 @@ Auckland |  TBD |    |   |
 ## Short Talks
 1. Pandering in a (Flexible) Representative Democracy - Ben Abramowitz, Nicholas Mattei, Zizhan Zheng, Xiaolin Sun, Jacob Masur
 2. Influencing Games Through DRL - Colin Brady, Rica Gonen, Genadi Rabinovich
-3. Prizes and effort in contests with private information
+3. Prizes and Effort in Contests with Private Information - Sumit Goel
 4. Social Optimum Equilibrium Selection for Distributed Multi-Agent Optimization - Duong D Nguyen, Langford White, Hung Nguyen
 5. Game Implementation: What Are the Obstructions? - Jiehua Chen, Sebastian Vincent Haydn, Seyedeh Negar Layegh Khavidaki, Sofia Simola, Manuel Sorge
 6. Decision Theory Using Mechanised Causal Graphs - Decision Theory Using Mechanised Causal Graphs
@@ -114,6 +112,9 @@ Auckland |  TBD |    |   |
 12. Gerrymandering Bounds Beyond Two Parties - Ruth Ariel, Omer Lev
 
 
+## Talk Session Times
+
+To be determined. Please check back later.
 
 
 <!--
