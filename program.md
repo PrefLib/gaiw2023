@@ -62,6 +62,13 @@ Please find detailed information regarding the workshop schedule below.
 12:15-12:30 |Improved Coordination with Failsafes and Belief-Conditioned Programs |Jesse Clifton, Anthony DiGiovanni |[PDF](https://drive.google.com/file/d/1qxJJf2Jsz3LJ3l__x4GVNBui6TvfJoYh/view) |
 
 
+### Session 3 Talks (15:00-15:45)
+|Time| Title | Authors | Link |
+|:--------------|:----------|:---------|:----:|
+15:00-15:15 |Group Fair Clustering Revisited—Notions and Efficient Algorithm |Shivam Gupta, Ganesh Ghalme, Narayanan C Krishnan, Shweta Jain |[PDF](https://drive.google.com/file/d/1_0ZWOfG8SNSRYR84sfw1fZxv3p8h_gFY/view) | 
+15:15-15:30 |Scaling Opponent Shaping to High Dimensional Games |Akbir Khan, Timon Willi, Newton H Kwan, Andrea Tacchetti, Christopher Lu, Edward Grefenstette, Tim Rocktäschel, Jakob Foerster |[PDF](https://drive.google.com/file/d/1KcKCuCj7xeQGMVIsz-FSQ-VsDeGAygbV/view) | 
+15:30-15:45 |Incentive-Based Efficient Solutions for Public Goods Games |Yair Vaknin, Amnon Meisels |[PDF](https://drive.google.com/file/d/1oNZsjsdjfanu4V0GdbS6BSaxknBKWuip/view) | 
+
 <!--  | | |[PDF]() | -->
 
 <!--
