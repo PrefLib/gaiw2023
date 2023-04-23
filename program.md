@@ -46,6 +46,22 @@ Please find detailed information regarding the workshop schedule below.
 | 9:45-10:00 | On the Price of Fairness of Allocating Contiguous Blocks | Ankang Sun, Bo Li |[PDF](https://drive.google.com/file/d/17y9JnYUKMocsIdM94ct8hs4fClvzxU7M/view) |
 
 
+### Session 2 Talks (10:45-12:30)
+|Time| Title | Authors | Link |
+|:--------------|:----------|:---------|:----:|
+10:45-10:50 |Deep Reinforcement Learning and Influenced Games |Colin Brady, Rica Gonen, Genadi Rabinovich |[PDF](https://drive.google.com/file/d/1FMK9eAiPG3BVhuat_xrHZihD8f6HYyPR/view) |
+10:50-10:55 |Prizes and Effort in Contests with Private Information |Sumit Goel |[PDF](https://drive.google.com/file/d/1a6Zd4Jiqd5Hyd5yw-OrmfErQ2DkYUfhq/view) |
+10:55-11:00 |Social Optimum Equilibrium Selection for Distributed Multi-Agent Optimization |Duong D Nguyen, Langford White, Hung Nguyen |[PDF](https://drive.google.com/file/d/1B8-N9e7atqCLX-R_gSOtao0iPFAD1FCO/view) |
+11:00-11:05 |Game Implementation: What Are the Obstructions? |Jiehua Chen, Sebastian Vincent Haydn, Seyedeh Negar Layegh Khavidaki, Sofia Simola, Manuel Sorge |[PDF](https://drive.google.com/file/d/1Wxa6au3K7mnZc51emf3VEtJ3a8XZ2GT4/view) |
+11:05-11:10 |Decision Theory Using Mechanised Causal Graphs |Decision Theory Using Mechanised Causal Graphs - Matt MacDermott, Tom Everitt, Francesco Belardinelli |[PDF](https://drive.google.com/file/d/1Wt9d-YIZw5LrOSFUngaC5NmZm0dSvvHP/view) |
+11:10-11:15 |A Fair Dynamic Pricing Policy for the Hotel Industry |Errikos Streviniotis, Athina Georgara, Filippo Bistaffa, Georgios Chalkiadakis |[PDF](https://drive.google.com/file/d/1S9LQpevGC1VUbsjl8RvLu_MeZC9UHiMr/view) |
+11:15 - 11:30 |A Comparative Study of Elicitation Granularity in Prediction Markets Under Trader Misinformation |Noah Lincke, Mithun Chakraborty, Sindhu Kutty |[PDF](https://drive.google.com/file/d/1wdAy9KadFPJQd0457S4qbwoyh5kXAmqs/view) |
+11:30-11:45 |Global Min-Max Computation for α-Hölder Zero-Sum Games |Aurélien Delage, Olivier Buffet, Jilles Steeve Dibangoye |[PDF](https://drive.google.com/file/d/1846r2PrttV7mDqorqCow0p5QJKnDL6SH/view) |
+11:45-12:00 |A Novel Approach of Credit Based Compensation Scheme Modelling in International Kidney Exchange |Xin Ye, Márton Benedek, Peter Biro, Daniel Paulusma |[PDF](https://drive.google.com/file/d/1jkQj6RJ4TgE9ItT7R5oUuF8B3CpfxYP_/view) |
+12:00-12:15 |Improving Quantal Cognitive Hierarchy Model Through Iterative Population Learning |Yuhong Xu, Shih-Fen Cheng, Xinyu Chen |[PDF](https://drive.google.com/file/d/1XrN7EnSh229aoHXnZN9oE2ip9ecHy8WY/view) |
+12:15-12:30 |Improved Coordination with Failsafes and Belief-Conditioned Programs |Jesse Clifton, Anthony DiGiovanni |[PDF](https://drive.google.com/file/d/1qxJJf2Jsz3LJ3l__x4GVNBui6TvfJoYh/view) |
+
+
 <!--  | | |[PDF]() | -->
 
 <!--
