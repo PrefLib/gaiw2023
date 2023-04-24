@@ -7,25 +7,25 @@ published: true
 ## Full Schedule
 
 | Time | Session | Topic | Structure |
-:----------|:-------------|:------:|:------:|
-8:00-9:00   | Keynote by Zoi Terzopoulou |  TBD  | Keynote |
-9:00-10:00  | Session 1               | Fair Division | 15 min x 4 |
-10:00-10:45 | Coffee Break            |  |   |
-10:45-11:15 | Session 2.1             | Games, Markets, and Cooperation | 5 min x 6 |
-11:15-12:30 | Session 2.2             | Games, Markets, and Cooperation | 15 min x 5 |
-12:30-14:00 | Lunch Break             |  |   |
-14:00-15:00 | Keynote by Sanmay Das   | TBD | Keynote |
-15:00-15:45 | Session 3               | Games, Clustering, Networks, and Scaling | 15 min x 3 |
-15:45-16:30 | Coffee Break            |  |   |
-16:30-17:00 | Session 4.1             | Voting, Peer Review, and Networks | 5 min x 6 |
-17:00-18:00 | Session 4.2             | Voting, Peer Review, and Networks | 15 min x 4 |
-18:00-20:00 | AAMAS Opening Reception |  |   |
+|:----------|:-------------|:------:|:------:|
+|8:00-9:00   | Keynote by Zoi Terzopoulou |  TBD  | Keynote |
+|9:00-10:00  | Session 1               | Fair Division | 15 min x 4 |
+|10:00-10:45 | Coffee Break            |  |   |
+|10:45-11:15 | Session 2.1             | Games, Markets, and Cooperation | 5 min x 6 |
+|11:15-12:30 | Session 2.2             | Games, Markets, and Cooperation | 15 min x 5 |
+|12:30-14:00 | Lunch Break             |  |   |
+|14:00-15:00 | Keynote by Sanmay Das   | TBD | Keynote |
+|15:00-15:45 | Session 3               | Games, Clustering, Networks, and Scaling | 15 min x 3 |
+|15:45-16:30 | Coffee Break            |  |   |
+|16:30-17:00 | Session 4.1             | Voting, Peer Review, and Networks | 5 min x 6 |
+|17:00-18:00 | Session 4.2             | Voting, Peer Review, and Networks | 15 min x 4 |
+|18:00-20:00 | AAMAS Opening Reception |  |   |
 
 
 
 ### Session 1 (9:00-10:00)
 |Time| Title | Authors | Link |
-:--------------|:-------|:-------|:----:|
+|:--------------|:-------|:-------|:----:|
 9:00-9:15 | Thou Shalt not Pick all Items if Thou are First: of Strategyproof and Fair Picking Sequences | Sylvain Bouveret, Hugo Gilbert, Jérôme Lang, Guillaume Méroué | [PDF](https://drive.google.com/file/d/1abI-M3R7uVFndj0GxePu9ndCEVvBK2Qn/) |
 9:15-9:30 | Graphical House Allocation | Hadi Hosseini, Justin Payan, Rik Sengupta, Rohit Vaish, Vignesh Viswanathan | [PDF](https://drive.google.com/file/d/1DBkZeL89xXcF6L_KyF5PFspdkMfVeE0V/view) |
 9:30-9:45 | Fair Distribution of Delivery Orders | Hadi Hosseini, Shivika Narang, Tomasz Wąs |[PDF](https://drive.google.com/file/d/1w1oyY7ohxocTsjuEK8bdocNqpUslOm_P/view) |
