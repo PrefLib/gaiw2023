@@ -22,6 +22,10 @@ published: true
 |18:00-20:00 | AAMAS Opening Reception |  |   |
 
 
+<br>
+<hr>
+<hr>
+<br>
 
 ### Session 1 (9:00-10:00)
 
@@ -32,6 +36,7 @@ published: true
 9:30-9:45 | Fair Distribution of Delivery Orders | Hadi Hosseini, Shivika Narang, Tomasz Wąs |[PDF](https://drive.google.com/file/d/1w1oyY7ohxocTsjuEK8bdocNqpUslOm_P/view) |
 9:45-10:00 | On the Price of Fairness of Allocating Contiguous Blocks | Ankang Sun, Bo Li |[PDF](https://drive.google.com/file/d/17y9JnYUKMocsIdM94ct8hs4fClvzxU7M/view) |
 
+<br>
 
 ### Session 2 (10:45-12:30)
 
@@ -49,6 +54,7 @@ published: true
 12:00-12:15 |Improving Quantal Cognitive Hierarchy Model Through Iterative Population Learning |Yuhong Xu, Shih-Fen Cheng, Xinyu Chen |[PDF](https://drive.google.com/file/d/1XrN7EnSh229aoHXnZN9oE2ip9ecHy8WY/view) |
 12:15-12:30 |Improved Coordination with Failsafes and Belief-Conditioned Programs |Jesse Clifton, Anthony DiGiovanni |[PDF](https://drive.google.com/file/d/1qxJJf2Jsz3LJ3l__x4GVNBui6TvfJoYh/view) |
 
+<br>
 
 ### Session 3 (15:00-15:45)
 
@@ -58,7 +64,7 @@ published: true
 15:15-15:30 |Scaling Opponent Shaping to High Dimensional Games |Akbir Khan, Timon Willi, Newton H Kwan, Andrea Tacchetti, Christopher Lu, Edward Grefenstette, Tim Rocktäschel, Jakob Foerster |[PDF](https://drive.google.com/file/d/1KcKCuCj7xeQGMVIsz-FSQ-VsDeGAygbV/view) | 
 15:30-15:45 |Incentive-Based Efficient Solutions for Public Goods Games |Yair Vaknin, Amnon Meisels |[PDF](https://drive.google.com/file/d/1oNZsjsdjfanu4V0GdbS6BSaxknBKWuip/view) | 
 
-
+<br>
 
 ### Session 4 (16:30-18:00)
 
