@@ -4,6 +4,9 @@ title: Program
 published: true
 ---
 
+The 5th Games, Agents, and Incentives workshop will be held at AAMAS 2023 in **Room 2** of the London ExCeL conference centre on Tuesday, May 30th.
+
+
 ## Full Schedule - Tuesday, May 30
 
 | Time | Session | Topic | Structure |
