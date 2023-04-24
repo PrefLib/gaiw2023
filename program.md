@@ -24,6 +24,7 @@ published: true
 
 
 ### Session 1 (9:00-10:00)
+
 |Time| Title | Authors | Link |
 |:--------------|:-------|:-------|:----:|
 9:00-9:15 | Thou Shalt not Pick all Items if Thou are First: of Strategyproof and Fair Picking Sequences | Sylvain Bouveret, Hugo Gilbert, Jérôme Lang, Guillaume Méroué | [PDF](https://drive.google.com/file/d/1abI-M3R7uVFndj0GxePu9ndCEVvBK2Qn/) |
@@ -33,6 +34,7 @@ published: true
 
 
 ### Session 2 (10:45-12:30)
+
 |Time| Title | Authors | Link |
 :--------------|:----------|:---------|:----:|
 10:45-10:50 |Deep Reinforcement Learning and Influenced Games |Colin Brady, Rica Gonen, Genadi Rabinovich |[PDF](https://drive.google.com/file/d/1FMK9eAiPG3BVhuat_xrHZihD8f6HYyPR/view) |
@@ -49,6 +51,7 @@ published: true
 
 
 ### Session 3 (15:00-15:45)
+
 |Time| Title | Authors | Link |
 :--------------|:----------|:---------|:----:|
 15:00-15:15 |Group Fair Clustering Revisited—Notions and Efficient Algorithm |Shivam Gupta, Ganesh Ghalme, Narayanan C Krishnan, Shweta Jain |[PDF](https://drive.google.com/file/d/1_0ZWOfG8SNSRYR84sfw1fZxv3p8h_gFY/view) | 
@@ -58,6 +61,7 @@ published: true
 
 
 ### Session 4 (16:30-18:00)
+
 |Time| Title | Authors | Link |
 :--------------|:----------|:---------|:----:|
 16:30-16:35|Into the Unknown: Assigning Reviewers to Papers with Uncertain Affinities |Cyrus Cousins, Justin Payan, Yair Zick |[PDF](https://drive.google.com/file/d/1TXev5WOr-A_0mp12UFAQBPdvN_ob-aBA/view) |
