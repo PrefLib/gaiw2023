@@ -7,6 +7,7 @@ published: true
 ## Full Schedule
 
 | Time | Session | Topic | Structure |
+
 |:----------|:-------------|:------:|:------:|
 8:00-9:00   | Keynote by Zoi Terzopoulou |  TBD  | Keynote |
 9:00-10:00  | Session 1               | Fair Division | 15 min x 4 |
@@ -25,6 +26,7 @@ published: true
 
 ### Session 1 (9:00-10:00)
 |Time| Title | Authors | Link |
+
 |:--------------|:-------|:-------|:----:|
 9:00-9:15 | Thou Shalt not Pick all Items if Thou are First: of Strategyproof and Fair Picking Sequences | Sylvain Bouveret, Hugo Gilbert, Jérôme Lang, Guillaume Méroué | [PDF](https://drive.google.com/file/d/1abI-M3R7uVFndj0GxePu9ndCEVvBK2Qn/) |
 9:15-9:30 | Graphical House Allocation | Hadi Hosseini, Justin Payan, Rik Sengupta, Rohit Vaish, Vignesh Viswanathan | [PDF](https://drive.google.com/file/d/1DBkZeL89xXcF6L_KyF5PFspdkMfVeE0V/view) |
@@ -34,6 +36,7 @@ published: true
 
 ### Session 2 (10:45-12:30)
 |Time| Title | Authors | Link |
+
 |:--------------|:----------|:---------|:----:|
 10:45-10:50 |Deep Reinforcement Learning and Influenced Games |Colin Brady, Rica Gonen, Genadi Rabinovich |[PDF](https://drive.google.com/file/d/1FMK9eAiPG3BVhuat_xrHZihD8f6HYyPR/view) |
 10:50-10:55 |Prizes and Effort in Contests with Private Information |Sumit Goel |[PDF](https://drive.google.com/file/d/1a6Zd4Jiqd5Hyd5yw-OrmfErQ2DkYUfhq/view) |
@@ -50,6 +53,7 @@ published: true
 
 ### Session 3 (15:00-15:45)
 |Time| Title | Authors | Link |
+
 |:--------------|:----------|:---------|:----:|
 15:00-15:15 |Group Fair Clustering Revisited—Notions and Efficient Algorithm |Shivam Gupta, Ganesh Ghalme, Narayanan C Krishnan, Shweta Jain |[PDF](https://drive.google.com/file/d/1_0ZWOfG8SNSRYR84sfw1fZxv3p8h_gFY/view) | 
 15:15-15:30 |Scaling Opponent Shaping to High Dimensional Games |Akbir Khan, Timon Willi, Newton H Kwan, Andrea Tacchetti, Christopher Lu, Edward Grefenstette, Tim Rocktäschel, Jakob Foerster |[PDF](https://drive.google.com/file/d/1KcKCuCj7xeQGMVIsz-FSQ-VsDeGAygbV/view) | 
@@ -59,6 +63,7 @@ published: true
 
 ### Session 4 (16:30-18:00)
 |Time| Title | Authors | Link |
+
 |:--------------|:----------|:---------|:----:|
 16:30-16:35|Into the Unknown: Assigning Reviewers to Papers with Uncertain Affinities |Cyrus Cousins, Justin Payan, Yair Zick |[PDF](https://drive.google.com/file/d/1TXev5WOr-A_0mp12UFAQBPdvN_ob-aBA/view) |
 16:35-16:40|Pandering in a (Flexible) Representative Democracy |Ben Abramowitz, Nicholas Mattei, Zizhan Zheng, Xiaolin Sun, Jacob Masur |[PDF](https://drive.google.com/file/d/1WU5SgRMgE64GvWXcfTTB2VG_UCriqQJV/view) |
