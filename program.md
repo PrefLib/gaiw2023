@@ -4,21 +4,21 @@ title: Program
 published: true
 ---
 
-## Full Schedule
+## Full Schedule - Tuesday, May 30
 
 | Time | Session | Topic | Structure |
 |:----------:|:-------------:|:------:|:------:|
 |8:00-9:00   | Keynote by Zoi Terzopoulou |  TBD  | Keynote |
-|9:00-10:00  | Session 1               | Fair Division | 15 min x 4 |
+|9:00-10:00  | [Session 1](#session1)  | Fair Division | 15 min x 4 |
 |10:00-10:45 | Coffee Break            |  |   |
-|10:45-11:15 | Session 2.1             | Games, Markets, and Cooperation | 5 min x 6 |
-|11:15-12:30 | Session 2.2             | Games, Markets, and Cooperation | 15 min x 5 |
+|10:45-11:15 | [Session 2.1](#session2)| Games, Markets, and Cooperation | 5 min x 6 |
+|11:15-12:30 | [Session 2.2](#session2)| Games, Markets, and Cooperation | 15 min x 5 |
 |12:30-14:00 | Lunch Break             |  |   |
 |14:00-15:00 | Keynote by Sanmay Das   | TBD | Keynote |
-|15:00-15:45 | Session 3               | Games, Clustering, Networks, and Scaling | 15 min x 3 |
+|15:00-15:45 | [Session 3](#session3)               | Games, Clustering, Networks, and Scaling | 15 min x 3 |
 |15:45-16:30 | Coffee Break            |  |   |
-|16:30-17:00 | Session 4.1             | Voting, Peer Review, and Networks | 5 min x 6 |
-|17:00-18:00 | Session 4.2             | Voting, Peer Review, and Networks | 15 min x 4 |
+|16:30-17:00 | [Session 4](#session4)            | Voting, Peer Review, and Networks | 5 min x 6 |
+|17:00-18:00 | [Session 4](#session4)             | Voting, Peer Review, and Networks | 15 min x 4 |
 |18:00-20:00 | AAMAS Opening Reception |  |   |
 
 
@@ -27,7 +27,7 @@ published: true
 <hr>
 <br>
 
-### Session 1 (9:00-10:00)
+### Session 1 (9:00-10:00)<a name="session1"></a>
 
 |Time| Title | Authors | Link |
 |:--------------:|:-------:|:-------:|:----:|
@@ -38,7 +38,7 @@ published: true
 
 <br>
 
-### Session 2 (10:45-12:30)
+### Session 2 (10:45-12:30)<a name="session2"></a>
 
 |Time| Title | Authors | Link |
 :--------------:|:----------:|:---------:|:----:|
@@ -56,7 +56,7 @@ published: true
 
 <br>
 
-### Session 3 (15:00-15:45)
+### Session 3 (15:00-15:45)<a name="session3"></a>
 
 |Time| Title | Authors | Link |
 :--------------:|:----------:|:---------:|:----:|
@@ -66,7 +66,7 @@ published: true
 
 <br>
 
-### Session 4 (16:30-18:00)
+### Session 4 (16:30-18:00)<a name="session4"></a>
 
 |Time| Title | Authors | Link |
 :--------------:|:----------:|:---------:|:----:|
