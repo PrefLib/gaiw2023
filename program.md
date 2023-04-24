@@ -37,7 +37,7 @@ Please find detailed information regarding the workshop schedule below.
 
 
 
-### Session 1 Talks (9:00-10:00)
+### Session 1 (9:00-10:00)
 |Time| Title | Authors | Link |
 |:--------------|:----------|:---------|:----:|
 | 9:00-9:15 | Thou Shalt not Pick all Items if Thou are First: of Strategyproof and Fair Picking Sequences | Sylvain Bouveret, Hugo Gilbert, Jérôme Lang, Guillaume Méroué | [PDF](https://drive.google.com/file/d/1abI-M3R7uVFndj0GxePu9ndCEVvBK2Qn/)
@@ -46,7 +46,7 @@ Please find detailed information regarding the workshop schedule below.
 | 9:45-10:00 | On the Price of Fairness of Allocating Contiguous Blocks | Ankang Sun, Bo Li |[PDF](https://drive.google.com/file/d/17y9JnYUKMocsIdM94ct8hs4fClvzxU7M/view) |
 
 
-### Session 2 Talks (10:45-12:30)
+### Session 2 (10:45-12:30)
 |Time| Title | Authors | Link |
 |:--------------|:----------|:---------|:----:|
 10:45-10:50 |Deep Reinforcement Learning and Influenced Games |Colin Brady, Rica Gonen, Genadi Rabinovich |[PDF](https://drive.google.com/file/d/1FMK9eAiPG3BVhuat_xrHZihD8f6HYyPR/view) |
@@ -62,12 +62,29 @@ Please find detailed information regarding the workshop schedule below.
 12:15-12:30 |Improved Coordination with Failsafes and Belief-Conditioned Programs |Jesse Clifton, Anthony DiGiovanni |[PDF](https://drive.google.com/file/d/1qxJJf2Jsz3LJ3l__x4GVNBui6TvfJoYh/view) |
 
 
-### Session 3 Talks (15:00-15:45)
+### Session 3 (15:00-15:45)
 |Time| Title | Authors | Link |
 |:--------------|:----------|:---------|:----:|
 15:00-15:15 |Group Fair Clustering Revisited—Notions and Efficient Algorithm |Shivam Gupta, Ganesh Ghalme, Narayanan C Krishnan, Shweta Jain |[PDF](https://drive.google.com/file/d/1_0ZWOfG8SNSRYR84sfw1fZxv3p8h_gFY/view) | 
 15:15-15:30 |Scaling Opponent Shaping to High Dimensional Games |Akbir Khan, Timon Willi, Newton H Kwan, Andrea Tacchetti, Christopher Lu, Edward Grefenstette, Tim Rocktäschel, Jakob Foerster |[PDF](https://drive.google.com/file/d/1KcKCuCj7xeQGMVIsz-FSQ-VsDeGAygbV/view) | 
 15:30-15:45 |Incentive-Based Efficient Solutions for Public Goods Games |Yair Vaknin, Amnon Meisels |[PDF](https://drive.google.com/file/d/1oNZsjsdjfanu4V0GdbS6BSaxknBKWuip/view) | 
+
+
+
+### Session 4 (16:30-18:00)
+|Time| Title | Authors | Link |
+|:--------------|:----------|:---------|:----:|
+16:30-16:35|Into the Unknown: Assigning Reviewers to Papers with Uncertain Affinities |Cyrus Cousins, Justin Payan, Yair Zick |[PDF](https://drive.google.com/file/d/1TXev5WOr-A_0mp12UFAQBPdvN_ob-aBA/view) |
+16:35-16:40|Pandering in a (Flexible) Representative Democracy |Ben Abramowitz, Nicholas Mattei, Zizhan Zheng, Xiaolin Sun, Jacob Masur |[PDF](https://drive.google.com/file/d/1WU5SgRMgE64GvWXcfTTB2VG_UCriqQJV/view) |
+16:40-16:45|Pairwise Distortion and the Independence of Irrelevant Alternatives |Théo Delemazure, Grzegorz Pierczyński, Jérôme Lang |[PDF](https://drive.google.com/file/d/1NwKlzXx__J-DfjlfHfSVpIF2phwfMUMa/view) |
+16:45-16:50|Agreement Among Proportional Approval-Based Multi-Winner Voting Rules: An Empirical Analysis |Jannik Reichert, Edith Elkind |[PDF](https://drive.google.com/file/d/1czU7HC-S5Pq7wVa3XFpjSXSIfsaoBi-q/view) |
+16:50-16:55|Heuristics for Opinion Diffusion via Local Elections |Rica Gonen, Martin Koutecky, Roei Menashof, Nimrod Talmon |[PDF](https://drive.google.com/file/d/1hG4XrWsSpQzyd8v2Bjsk9ZziSLT3i243/view) |
+16:55-17:00|Gerrymandering Bounds Beyond Two Parties |Ruth Ariel, Omer Lev |[PDF](https://drive.google.com/file/d/1JHAoQ4SPzd2FMyqOUCdMNg6aWlUQSy6M/view) |
+17:00-17:15|Refined Characterizations of Approval-Based Committee Scoring Rules |Chris S Dong, Patrick Lederer |[PDF](https://drive.google.com/file/d/1M5FbiMIo2xOwuHY7_XUPVTnzVmLRCv1l/view) |
+17:15-17:30|The Limits of Smart Voting in Liquid Democracy |Giannis Tyrovolas, Edith Elkind |[PDF](https://drive.google.com/file/d/1qMyQHxwqKWCBsRxupxPL4JgNeF5UOARp/view) |
+17:30-17:45|Proxy Voting for Better Outcomes |Gili Bielous, Reshef Meir |[PDF](https://drive.google.com/file/d/1bavgJ_-hp9H9_91FO3F_jXVZEqzD8mck/view) |
+17:45-18:00|Closeness centrality via the Condorcet Principle |Oskar Skibski |[PDF](https://drive.google.com/file/d/1lmWgpLmqSa6WBe3fX0uYMQDhnbvVurmf/view) |
+
 
 <!--  | | |[PDF]() | -->
 
@@ -129,6 +146,7 @@ Auckland |  TBD |    |   |
 -->
 
 
+<!--
 
 ## Long Talks
 1. Fair Distribution of Delivery Orders - Hadi Hosseini, Shivika Narang, Tomasz Wąs
@@ -168,3 +186,5 @@ Auckland |  TBD |    |   |
 ## Talk Session Times
 
 To be determined. Please check back later.
+
+-->
