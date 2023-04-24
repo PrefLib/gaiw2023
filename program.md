@@ -4,8 +4,6 @@ title: Program
 published: true
 ---
 
-<script src="https://rawcdn.githack.com/oscarmorrison/md-page/master/md-page.js"></script><noscript>
-
 ## Full Schedule
 
 | Time | Session | Topic | Structure |
@@ -21,17 +19,17 @@ published: true
 15:45-16:30 | Coffee Break            | --- |  --- |
 16:30-17:00 | Session 4.1             | Voting, Peer Review, and Networks | 5 min x 6 |
 17:00-18:00 | Session 4.2             | Voting, Peer Review, and Networks | 15 min x 4 |
-18:00-20:00 | AAMAS Opening Reception | --- |  --- 
+18:00-20:00 | AAMAS Opening Reception | --- |  --- |
 
 
 
 ### Session 1 (9:00-10:00)
 |Time| Title | Authors | Link |
 |:--------------|:----------|:---------|:----:|
-| 9:00-9:15 | Thou Shalt not Pick all Items if Thou are First: of Strategyproof and Fair Picking Sequences | Sylvain Bouveret, Hugo Gilbert, Jérôme Lang, Guillaume Méroué | [PDF](https://drive.google.com/file/d/1abI-M3R7uVFndj0GxePu9ndCEVvBK2Qn/)
-| 9:15-9:30 | Graphical House Allocation | Hadi Hosseini, Justin Payan, Rik Sengupta, Rohit Vaish, Vignesh Viswanathan | [PDF](https://drive.google.com/file/d/1DBkZeL89xXcF6L_KyF5PFspdkMfVeE0V/view)
-| 9:30-9:45 | Fair Distribution of Delivery Orders | Hadi Hosseini, Shivika Narang, Tomasz Wąs |[PDF](https://drive.google.com/file/d/1w1oyY7ohxocTsjuEK8bdocNqpUslOm_P/view) |
-| 9:45-10:00 | On the Price of Fairness of Allocating Contiguous Blocks | Ankang Sun, Bo Li |[PDF](https://drive.google.com/file/d/17y9JnYUKMocsIdM94ct8hs4fClvzxU7M/view) |
+9:00-9:15 | Thou Shalt not Pick all Items if Thou are First: of Strategyproof and Fair Picking Sequences | Sylvain Bouveret, Hugo Gilbert, Jérôme Lang, Guillaume Méroué | [PDF](https://drive.google.com/file/d/1abI-M3R7uVFndj0GxePu9ndCEVvBK2Qn/) |
+9:15-9:30 | Graphical House Allocation | Hadi Hosseini, Justin Payan, Rik Sengupta, Rohit Vaish, Vignesh Viswanathan | [PDF](https://drive.google.com/file/d/1DBkZeL89xXcF6L_KyF5PFspdkMfVeE0V/view) |
+9:30-9:45 | Fair Distribution of Delivery Orders | Hadi Hosseini, Shivika Narang, Tomasz Wąs |[PDF](https://drive.google.com/file/d/1w1oyY7ohxocTsjuEK8bdocNqpUslOm_P/view) |
+9:45-10:00 | On the Price of Fairness of Allocating Contiguous Blocks | Ankang Sun, Bo Li |[PDF](https://drive.google.com/file/d/17y9JnYUKMocsIdM94ct8hs4fClvzxU7M/view) |
 
 
 ### Session 2 (10:45-12:30)
