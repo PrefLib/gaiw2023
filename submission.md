@@ -17,6 +17,9 @@ published: true
 * Poster Session 2: May 10th, 2022 (06:15-07:15 Auckland). [Gather Town](https://app.gather.town/events/O8p6uZQ3G1EJELYsXH2v).
 -->
 
+### Poster Printing
+For those presenting posters, there is a company called [SimplyPrint](www.simplyprint.com) located near the London ExCel center which may be helpful. 
+
 
 ## Submission Site and Details
 Authors should submit full papers electronically in PDF format at ([CMT Submission Link](https://cmt3.research.microsoft.com/GAIW2023))
