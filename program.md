@@ -11,17 +11,17 @@ The 5th Games, Agents, and Incentives workshop will be held at AAMAS 2023 in **R
 
 | Time | Session | Topic | Structure |
 |:----------:|:-------------:|:------:|:------:|
-|8:00-9:00   | Keynote by Zoi Terzopoulou |  TBD  | Keynote |
+|8:00-9:00   | Keynote by Zoi Terzopoulou |  Incompleteness in Collective Decision Making  | Keynote |
 |9:00-10:00  | [Session 1](#session1)  | Fair Division | 15 min x 4 |
 |10:00-10:45 | Coffee Break            |  |   |
 |10:45-11:15 | [Session 2.1](#session2)| Games, Markets, and Cooperation | 5 min x 6 |
 |11:15-12:30 | [Session 2.2](#session2)| Games, Markets, and Cooperation | 15 min x 5 |
 |12:30-14:00 | Lunch Break             |  |   |
-|14:00-15:00 | Keynote by Sanmay Das   | TBD | Keynote |
+|14:00-15:00 | Keynote by Sanmay Das   | Efficiency, Fairness, and Incentives in Scarce Societal Resource Allocation | Keynote |
 |15:00-15:45 | [Session 3](#session3)               | Games, Clustering, Networks, and Scaling | 15 min x 3 |
 |15:45-16:30 | Coffee Break            |  |   |
-|16:30-17:00 | [Session 4](#session4)            | Voting, Peer Review, and Networks | 5 min x 6 |
-|17:00-18:00 | [Session 4](#session4)             | Voting, Peer Review, and Networks | 15 min x 4 |
+|16:30-17:00 | [Session 4.1](#session4)            | Voting, Peer Review, and Networks | 5 min x 6 |
+|17:00-18:00 | [Session 4.2](#session4)             | Voting, Peer Review, and Networks | 15 min x 4 |
 |18:00-20:00 | AAMAS Opening Reception |  |   |
 
 
@@ -30,7 +30,15 @@ The 5th Games, Agents, and Incentives workshop will be held at AAMAS 2023 in **R
 <hr>
 <br>
 
-### Session 1 (9:00-10:00)<a name="session1"></a>
+### 8:00-9:00 | Keynote - Incompleteness in Collective Decision Making<a name="keynote1"></a>
+
+Speaker: Zoi Terzopoulou
+
+Abstract: Incomplete individual opinions arise in many real-world settings that involve group decision making. From presidential elections and procedures for participatory budgeting, to online polls and crowdsourcing experiments, the participating members of a group may not be able to express a preference between some of the alternatives that are presented to them, or may not even be aware of the existence of all available alternatives. In this talk I will give an overview of problems that arise in the field of computational social choice when the goal is to aggregate incomplete preferences or judgments, and I will discuss some recent attempts towards their solution.
+
+
+
+### 9:00-10:00 | Session 1 <a name="session1"></a>
 
 |Time| Title | Authors | Link |
 |:--------------:|:-------:|:-------:|:----:|
@@ -41,7 +49,7 @@ The 5th Games, Agents, and Incentives workshop will be held at AAMAS 2023 in **R
 
 <br>
 
-### Session 2 (10:45-12:30)<a name="session2"></a>
+### 10:45-12:30 | Session 2 <a name="session2"></a>
 
 |Time| Title | Authors | Link |
 :--------------:|:----------:|:---------:|:----:|
@@ -59,7 +67,17 @@ The 5th Games, Agents, and Incentives workshop will be held at AAMAS 2023 in **R
 
 <br>
 
-### Session 3 (15:00-15:45)<a name="session3"></a>
+### 14:00-15:00 | Keynote - Efficiency, Fairness, and Incentives in Scarce Societal Resource Allocation<a name="keynote2"></a>
+
+Speaker: Sanmay Das
+
+Abstract: Artificial intelligence and machine learning are increasingly used to aid decision-making about the allocation of scarce societal resources, for example housing for homeless people, organs for transplantation, and food donations. Recently, there have been several proposals for how to design these systems in ways that attempt to achieve some combination of fairness, efficiency, incentive compatibility, and satisfactory aggregation of stakeholder preferences. In this talk I will give an overview of my group's research in this space, informed by the theories of local justice and of street level bureaucracy, and present some research vignettes. The first vignette is about theoretical and empirical results demonstrating necessary group fairness trade-offs in the context of scarcity. The second focuses on the incentives for misrepresentation created by fair machine learning algorithms that attempt to balance prediction accuracy and some notion of equity across groups. The third characterizes human preferences when prioritizing households for scarce resource allocation, and tests the impact of providing human decision-makers with algorithmic advice. Taken together, these results and, more broadly, this kind of research, can inform policy around the use of AI/ML algorithms as decision support tools in high-stakes allocation of social services.
+
+Speaker Bio:
+Bio: Sanmay Das is Professor of Computer Science and Co-Director of the Center for Advancing Human-Machine Partnership at George Mason University. He has broad interests across AI, machine learning, economics, and computational social science. Dr. Das is chair of ACM SIGAI and a member of the board of directors of IFAAMAS. He was program co-chair of AAMAS 2017 and is currently serving as program co-chair of AIES 2023 and associate program co-chair of IJCAI 2023. He serves as an associate editor of ACM TEAC, JAIR, and JAAMAS, and will join the DARPA ISAT Study Group in 2023. He has been recognized with several awards for research, teaching, and service, including an NSF CAREER Award, the Department Chair Award for Outstanding Teaching at Washington University, and the Department of Computer Science Outstanding Service Award at George Mason University. He holds a Ph.D. from MIT, and a Bachelor's degree from Harvard.
+
+
+### 15:00-15:45 | Session 3<a name="session3"></a>
 
 |Time| Title | Authors | Link |
 :--------------:|:----------:|:---------:|:----:|
@@ -69,7 +87,7 @@ The 5th Games, Agents, and Incentives workshop will be held at AAMAS 2023 in **R
 
 <br>
 
-### Session 4 (16:30-18:00)<a name="session4"></a>
+### 16:30-18:00 | Session 4<a name="session4"></a>
 
 |Time| Title | Authors | Link |
 :--------------:|:----------:|:---------:|:----:|
