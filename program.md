@@ -11,8 +11,8 @@ The 5th Games, Agents, and Incentives workshop will be held at AAMAS 2023 in **R
 
 | Time | Session | Topic | Structure |
 |:----------:|:-------------:|:------:|:------:|
-|8:00-9:00   | [Keynote by Zoi Terzopoulou](#keynote1) |  Incompleteness in Collective Decision Making  | Keynote |
-|9:00-10:00  | [Session 1](#session1)  | Fair Division | 15 min x 4 |
+|8:30-9:30   | [Keynote by Zoi Terzopoulou](#keynote1) |  Incompleteness in Collective Decision Making  | Keynote |
+|9:30-10:00  | [Session 1](#session1)  | Fair Division | 15 min x 2 |
 |10:00-10:45 | Coffee Break            |  |   |
 |10:45-11:15 | [Session 2.1](#session2)| Games, Markets, and Cooperation | 5 min x 6 |
 |11:15-12:30 | [Session 2.2](#session2)| Games, Markets, and Cooperation | 15 min x 5 |
@@ -21,7 +21,7 @@ The 5th Games, Agents, and Incentives workshop will be held at AAMAS 2023 in **R
 |15:00-15:45 | [Session 3](#session3)               | Games, Clustering, Networks, and Scaling | 15 min x 3 |
 |15:45-16:30 | Coffee Break            |  |   |
 |16:30-17:00 | [Session 4.1](#session4)            | Voting, Peer Review, and Networks | 5 min x 6 |
-|17:00-18:00 | [Session 4.2](#session4)             | Voting, Peer Review, and Networks | 15 min x 4 |
+|17:00-18:30 | [Session 4.2](#session4)             | Voting, Peer Review, and Networks | 15 min x 6 |
 |18:00-20:00 | AAMAS Opening Reception |  |   |
 
 
@@ -30,7 +30,7 @@ The 5th Games, Agents, and Incentives workshop will be held at AAMAS 2023 in **R
 <hr>
 <br>
 
-### 8:00-9:00 | Keynote - Incompleteness in Collective Decision Making<a name="keynote1"></a>
+### 8:30-9:30 | Keynote - Incompleteness in Collective Decision Making<a name="keynote1"></a>
 
 Speaker: Zoi Terzopoulou
 
@@ -40,14 +40,12 @@ Speaker Bio: Zoi Terzopoulou is a junior professor at the Saint-Etienne School o
 
 
 
-### 9:00-10:00 | Session 1 <a name="session1"></a>
+### 9:30-10:00 | Session 1 <a name="session1"></a>
 
 |Time| Title | Authors | Link |
 |:--------------:|:-------:|:-------:|:----:|
-9:00-9:15 | Thou Shalt not Pick all Items if Thou are First: of Strategyproof and Fair Picking Sequences | Sylvain Bouveret, Hugo Gilbert, Jérôme Lang, Guillaume Méroué | [PDF](https://drive.google.com/file/d/1abI-M3R7uVFndj0GxePu9ndCEVvBK2Qn/) |
-9:15-9:30 | Graphical House Allocation | Hadi Hosseini, Justin Payan, Rik Sengupta, Rohit Vaish, Vignesh Viswanathan | [PDF](https://drive.google.com/file/d/1DBkZeL89xXcF6L_KyF5PFspdkMfVeE0V/view) |
-9:30-9:45 | Fair Distribution of Delivery Orders | Hadi Hosseini, Shivika Narang, Tomasz Wąs |[PDF](https://drive.google.com/file/d/1w1oyY7ohxocTsjuEK8bdocNqpUslOm_P/view) |
-9:45-10:00 | On the Price of Fairness of Allocating Contiguous Blocks | Ankang Sun, Bo Li |[PDF](https://drive.google.com/file/d/17y9JnYUKMocsIdM94ct8hs4fClvzxU7M/view) |
+9:30-9:45 | Thou Shalt not Pick all Items if Thou are First: of Strategyproof and Fair Picking Sequences | Sylvain Bouveret, Hugo Gilbert, Jérôme Lang, Guillaume Méroué | [PDF](https://drive.google.com/file/d/1abI-M3R7uVFndj0GxePu9ndCEVvBK2Qn/) |
+9:45-10:00 | Fair Distribution of Delivery Orders | Hadi Hosseini, Shivika Narang, Tomasz Wąs |[PDF](https://drive.google.com/file/d/1w1oyY7ohxocTsjuEK8bdocNqpUslOm_P/view) |
 
 <br>
 
@@ -82,9 +80,10 @@ Speaker Bio: Sanmay Das is Professor of Computer Science and Co-Director of the 
 
 |Time| Title | Authors | Link |
 :--------------:|:----------:|:---------:|:----:|
-15:00-15:15 |Group Fair Clustering Revisited—Notions and Efficient Algorithm |Shivam Gupta, Ganesh Ghalme, Narayanan C Krishnan, Shweta Jain |[PDF](https://drive.google.com/file/d/1_0ZWOfG8SNSRYR84sfw1fZxv3p8h_gFY/view) | 
-15:15-15:30 |Scaling Opponent Shaping to High Dimensional Games |Akbir Khan, Timon Willi, Newton H Kwan, Andrea Tacchetti, Christopher Lu, Edward Grefenstette, Tim Rocktäschel, Jakob Foerster |[PDF](https://drive.google.com/file/d/1KcKCuCj7xeQGMVIsz-FSQ-VsDeGAygbV/view) | 
-15:30-15:45 |Incentive-Based Efficient Solutions for Public Goods Games |Yair Vaknin, Amnon Meisels |[PDF](https://drive.google.com/file/d/1oNZsjsdjfanu4V0GdbS6BSaxknBKWuip/view) | 
+15:00-15:15 |Scaling Opponent Shaping to High Dimensional Games |Akbir Khan, Timon Willi, Newton H Kwan, Andrea Tacchetti, Christopher Lu, Edward Grefenstette, Tim Rocktäschel, Jakob Foerster |[PDF]
+15:15-15:30 |Group Fair Clustering Revisited—Notions and Efficient Algorithm |Shivam Gupta, Ganesh Ghalme, Narayanan C Krishnan, Shweta Jain |[PDF](https://drive.google.com/file/d/1_0ZWOfG8SNSRYR84sfw1fZxv3p8h_gFY/view) | 
+(https://drive.google.com/file/d/1KcKCuCj7xeQGMVIsz-FSQ-VsDeGAygbV/view) | 
+15:30-15:45 | On the Price of Fairness of Allocating Contiguous Blocks | Ankang Sun, Bo Li |[PDF](https://drive.google.com/file/d/17y9JnYUKMocsIdM94ct8hs4fClvzxU7M/view) |
 
 <br>
 
@@ -102,3 +101,5 @@ Speaker Bio: Sanmay Das is Professor of Computer Science and Co-Director of the 
 17:15-17:30|The Limits of Smart Voting in Liquid Democracy |Giannis Tyrovolas, Edith Elkind |[PDF](https://drive.google.com/file/d/1qMyQHxwqKWCBsRxupxPL4JgNeF5UOARp/view) |
 17:30-17:45|Proxy Voting for Better Outcomes |Gili Bielous, Reshef Meir |[PDF](https://drive.google.com/file/d/1bavgJ_-hp9H9_91FO3F_jXVZEqzD8mck/view) |
 17:45-18:00|Closeness centrality via the Condorcet Principle |Oskar Skibski |[PDF](https://drive.google.com/file/d/1lmWgpLmqSa6WBe3fX0uYMQDhnbvVurmf/view) |
+18:00-18:15 |Incentive-Based Efficient Solutions for Public Goods Games |Yair Vaknin, Amnon Meisels |[PDF](https://drive.google.com/file/d/1oNZsjsdjfanu4V0GdbS6BSaxknBKWuip/view) | 
+18:15-18:30 | Graphical House Allocation | Hadi Hosseini, Justin Payan, Rik Sengupta, Rohit Vaish, Vignesh Viswanathan | [PDF](https://drive.google.com/file/d/1DBkZeL89xXcF6L_KyF5PFspdkMfVeE0V/view) |
