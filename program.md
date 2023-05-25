@@ -80,9 +80,8 @@ Speaker Bio: Sanmay Das is Professor of Computer Science and Co-Director of the 
 
 |Time| Title | Authors | Link |
 :--------------:|:----------:|:---------:|:----:|
-15:00-15:15 |Scaling Opponent Shaping to High Dimensional Games |Akbir Khan, Timon Willi, Newton H Kwan, Andrea Tacchetti, Christopher Lu, Edward Grefenstette, Tim Rocktäschel, Jakob Foerster |[PDF]
+15:00-15:15 |Scaling Opponent Shaping to High Dimensional Games |Akbir Khan, Timon Willi, Newton H Kwan, Andrea Tacchetti, Christopher Lu, Edward Grefenstette, Tim Rocktäschel, Jakob Foerster |[PDF](https://drive.google.com/file/d/1KcKCuCj7xeQGMVIsz-FSQ-VsDeGAygbV/view) | 
 15:15-15:30 |Group Fair Clustering Revisited—Notions and Efficient Algorithm |Shivam Gupta, Ganesh Ghalme, Narayanan C Krishnan, Shweta Jain |[PDF](https://drive.google.com/file/d/1_0ZWOfG8SNSRYR84sfw1fZxv3p8h_gFY/view) | 
-(https://drive.google.com/file/d/1KcKCuCj7xeQGMVIsz-FSQ-VsDeGAygbV/view) | 
 15:30-15:45 | On the Price of Fairness of Allocating Contiguous Blocks | Ankang Sun, Bo Li |[PDF](https://drive.google.com/file/d/17y9JnYUKMocsIdM94ct8hs4fClvzxU7M/view) |
 
 <br>
