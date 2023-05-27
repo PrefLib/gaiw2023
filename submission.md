@@ -18,7 +18,7 @@ published: true
 -->
 
 ### Poster Printing
-For those presenting posters, there is a company called [SimplyPrint](www.simplyprint.com) located near the London ExCel center which may be helpful. 
+For those presenting posters, there is a company called SimplyPrint (www.simplyprint.com) with alocation near the London ExCel center which may be helpful. 
 
 
 ## Submission Site and Details
