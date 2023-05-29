@@ -54,7 +54,7 @@ Speaker Bio: Zoi Terzopoulou is a junior professor at the Saint-Etienne School o
 |Time| Title | Authors | Link |
 :--------------:|:----------:|:---------:|:----:|
 10:45-10:50 |Deep Reinforcement Learning and Influenced Games |Colin Brady, Rica Gonen, Genadi Rabinovich |[PDF](https://drive.google.com/file/d/1FMK9eAiPG3BVhuat_xrHZihD8f6HYyPR/view) |
-10:50-10:55 |Prizes and Effort in Contests with Private Information |Sumit Goel |[PDF](https://drive.google.com/file/d/1a6Zd4Jiqd5Hyd5yw-OrmfErQ2DkYUfhq/view) |
+~~10:50-10:55~~ |~~Prizes and Effort in Contests with Private Information~~ |~~Sumit Goel~~ |[PDF](https://drive.google.com/file/d/1a6Zd4Jiqd5Hyd5yw-OrmfErQ2DkYUfhq/view) |
 10:55-11:00 |Social Optimum Equilibrium Selection for Distributed Multi-Agent Optimization |Duong D Nguyen, Langford White, Hung Nguyen |[PDF](https://drive.google.com/file/d/1B8-N9e7atqCLX-R_gSOtao0iPFAD1FCO/view) |
 11:00-11:05 |Game Implementation: What Are the Obstructions? |Jiehua Chen, Sebastian Vincent Haydn, Seyedeh Negar Layegh Khavidaki, Sofia Simola, Manuel Sorge |[PDF](https://drive.google.com/file/d/1Wxa6au3K7mnZc51emf3VEtJ3a8XZ2GT4/view) |
 11:05-11:10 |Decision Theory Using Mechanised Causal Graphs |Decision Theory Using Mechanised Causal Graphs - Matt MacDermott, Tom Everitt, Francesco Belardinelli |[PDF](https://drive.google.com/file/d/1Wt9d-YIZw5LrOSFUngaC5NmZm0dSvvHP/view) |
