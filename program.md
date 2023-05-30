@@ -13,7 +13,7 @@ The 5th Games, Agents, and Incentives workshop will be held at AAMAS 2023 in **S
 |:----------:|:-------------:|:------:|:------:|
 |~~8:30-9:30~~   | [Keynote by Zoi Terzopoulou](#keynote1) |  Incompleteness in Collective Decision Making  | Keynote |
 |~~9:30-10:00~~  | [Session 1](#session1)  | Fair Division | 15 min x 2 |
-|10:00-10:45 | Coffee Break            |  |   |
+|~~10:00-10:45~~ | Coffee Break            |  |   |
 |10:45-11:15 | [Session 2.1](#session2)| Games, Markets, and Cooperation | 5 min x 6 |
 |11:15-12:30 | [Session 2.2](#session2)| Games, Markets, and Cooperation | 15 min x 5 |
 |12:30-14:00 | Lunch Break             |  |   |
