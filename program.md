@@ -17,7 +17,7 @@ The 5th Games, Agents, and Incentives workshop will be held at AAMAS 2023 in **S
 |~~10:45-11:15~~ | [Session 2.1](#session2)| Games, Markets, and Cooperation | 5 min x 6 |
 |~~11:15-12:30~~ | [Session 2.2](#session2)| Games, Markets, and Cooperation | 15 min x 5 |
 |~~12:30-14:00~~ | Lunch Break             |  |   |
-|14:00-15:00 | [Keynote by Sanmay Das](#keynote2)   | Efficiency, Fairness, and Incentives in Scarce Societal Resource Allocation | Keynote |
+|~~14:00-15:00~~ | [Keynote by Sanmay Das](#keynote2)   | Efficiency, Fairness, and Incentives in Scarce Societal Resource Allocation | Keynote |
 |15:00-15:45 | [Session 3](#session3)               | Games, Clustering, Networks, and Scaling | 15 min x 3 |
 |15:45-16:30 | Coffee Break            |  |   |
 |16:30-17:00 | [Session 4.1](#session4)            | Voting, Peer Review, and Networks | 5 min x 6 |
