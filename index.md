@@ -7,14 +7,9 @@ published: true
 <p style="text-align:center;"><img src="{{ 'img/gaiwcover.png' | relative_url }}" /></p>
 
 
-<!--
 ## Thanks for a Great Workshop!
-We had a great workshop this year – you can watch the full video on YouTube [Here](YouTube Link).
-
-The full program and all papers will remain available on the [Program](https://preflib.github.io/gaiw2023/program/) page.
-
-Look forward to seeing you all next time!
--->
+We had a great workshop this year with high attendance, wonderful talks, and stellar keynotes. The full program and all papers will remain available on the [Program](https://preflib.github.io/gaiw2023/program/) page.
+We look forward to seeing you all next time!
 
 
 ## About the Games, Agents, and Incentives Workshop
