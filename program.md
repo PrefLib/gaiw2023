@@ -6,21 +6,29 @@ published: true
 
 The 5th Games, Agents, and Incentives workshop will be held at AAMAS 2023 in **South Gallery 13+14** of the London ExCeL conference centre on Tuesday, May 30th.
 
+## Some Photos from the Workshop
+
+<p style="text-align:center;"><img src="{{ 'img/20230530_141824.jpeg' | relative_url }}" /></p>
+
+<p style="text-align:center;"><img src="{{ 'img/20230530_164528.jpeg' | relative_url }}" /></p>
+
+<p style="text-align:center;"><img src="{{ 'img/20230530_181227.jpeg' | relative_url }}" /></p>
+
 
 ## Full Schedule - Tuesday, May 30
 
 | Time | Session | Topic | Structure |
 |:----------:|:-------------:|:------:|:------:|
-|~~8:30-9:30~~   | [Keynote by Zoi Terzopoulou](#keynote1) |  Incompleteness in Collective Decision Making  | Keynote |
-|~~9:30-10:00~~  | [Session 1](#session1)  | Fair Division | 15 min x 2 |
-|~~10:00-10:45~~ | Coffee Break            |  |   |
-|~~10:45-11:15~~ | [Session 2.1](#session2)| Games, Markets, and Cooperation | 5 min x 6 |
-|~~11:15-12:30~~ | [Session 2.2](#session2)| Games, Markets, and Cooperation | 15 min x 5 |
-|~~12:30-14:00~~ | Lunch Break             |  |   |
-|~~14:00-15:00~~ | [Keynote by Sanmay Das](#keynote2)   | Efficiency, Fairness, and Incentives in Scarce Societal Resource Allocation | Keynote |
-|~~15:00-15:45~~ | [Session 3](#session3)               | Games, Clustering, Networks, and Scaling | 15 min x 3 |
-|~~15:45-16:30~~ | Coffee Break            |  |   |
-|~~16:30-17:00~~ | [Session 4.1](#session4)            | Voting, Peer Review, and Networks | 5 min x 6 |
+|8:30-9:30   | [Keynote by Zoi Terzopoulou](#keynote1) |  Incompleteness in Collective Decision Making  | Keynote |
+|9:30-10:00  | [Session 1](#session1)  | Fair Division | 15 min x 2 |
+|10:00-10:45 | Coffee Break            |  |   |
+|10:45-11:15 | [Session 2.1](#session2)| Games, Markets, and Cooperation | 5 min x 6 |
+|11:15-12:30 | [Session 2.2](#session2)| Games, Markets, and Cooperation | 15 min x 5 |
+|12:30-14:00 | Lunch Break             |  |   |
+|14:00-15:00 | [Keynote by Sanmay Das](#keynote2)   | Efficiency, Fairness, and Incentives in Scarce Societal Resource Allocation | Keynote |
+|15:00-15:45 | [Session 3](#session3)               | Games, Clustering, Networks, and Scaling | 15 min x 3 |
+|15:45-16:30 | Coffee Break            |  |   |
+|16:30-17:00 | [Session 4.1](#session4)            | Voting, Peer Review, and Networks | 5 min x 6 |
 |17:00-18:30 | [Session 4.2](#session4)             | Voting, Peer Review, and Networks | 15 min x 6 |
 |18:30--- | AAMAS Opening Reception | South Halls Entrance S2 |   |
 
